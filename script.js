@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const selectedSourceLanguage = sourceLanguage.value;
         const selectedTargetLanguage = targetLanguage.value;
 
-        const apiKey = 'AIzaSyA65KX9V_uro0N_dAMdIN6Mfb5RSuqSGWM'; // Substitua pela sua chave de API
+        const apiKey = 'INSERT-YOUR API KEY'; // Substitua pela sua chave de API
 
         const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
         const data = {
