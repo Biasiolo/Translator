@@ -27,7 +27,7 @@ This is a simple text translator that uses the Google Translate API to translate
 
 ## Example
 
-You can see a working example of this application [here](https://yoursite.com/translator).
+You can see a working example of this application [here]([https://yoursite.com/translator](https://translator-five-cyan.vercel.app/)).
 
 ## Author
 
